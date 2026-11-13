@@ -1,0 +1,21 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME } from '../../data/site-config';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy of Sonographer By State: official sources only" description="How Sonographer By State writes its pages: each rule read on the ASRT state table or the agency page, each fee on ARRT or ARDMS pages, each school in IPEDS, dated." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial policy</h1>
+    <h2>Where the rules come from</h2>
+    <p>A state rule enters the site only when it was read on the state table of the American Society of Radiologic Technologists or on the page of the state agency; an exam fee only when read on the ARRT or Inteleos (ARDMS) pages; a program or a tuition figure only from the federal IPEDS files. Each is stored with its address and the date it was read. School directories and lead-generation sites are read to see what readers ask, never to take a rule or a figure.</p>
+    <h2>How pages are written</h2>
+    <p>No fee, count or tuition figure is typed into the text: they live in data files, and every page computes its figures from it when the site is built, with the same engine as the checker. Where an official document is silent, the site says “not stated” rather than guessing.</p>
+    <h2>What we do not write about</h2>
+    <p>Medical matters of any kind, and salaries. Whether a person qualifies for a license is for the state agency to decide.</p>
+    <h2>Money</h2>
+    <p>{AUTHOR_NAME} receives nothing from schools, training companies, exam-prep sellers or lead buyers and links to none of them as a sponsor.</p>
+    <h2>Updates and corrections</h2>
+    <p>Nothing updates by itself. Each page shows the date its sources were last read. A reported error is checked against the official document and, once fixed, moves that date. Write through the <a href={route('contact', lang)}>contact page</a>; the rules are on the <a href={route('method', lang)}>method page</a>.</p>
+  </article>
+</PageLayout>

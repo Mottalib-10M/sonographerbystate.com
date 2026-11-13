@@ -1,0 +1,3882 @@
+{
+ "AL": {
+  "name": "Alabama",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "http://www.alabamapublichealth.gov/radiation"
+   }
+  ]
+ },
+ "AK": {
+  "name": "Alaska",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiological Health Program",
+    "url": "https://dhss.alaska.gov/dph/labs/pages/radiological/default.aspx"
+   }
+  ]
+ },
+ "AZ": {
+  "name": "Arizona",
+  "rows": {
+   "Radiography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Arizona Bureau of Special Licensing",
+    "url": "https://azdhs.gov/licensing/special/index.php#mrt"
+   }
+  ]
+ },
+ "AR": {
+  "name": "Arkansas",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Arkansas Radiologic Technology Licensure Program",
+    "url": "https://www.healthy.arkansas.gov/programs-services/topics/radiologic-technology-licensure-program"
+   },
+   {
+    "agency": "Arkansas Radiologist Assistant Licensure Department",
+    "url": "http://www.armedicalboard.org/"
+   }
+  ]
+ },
+ "CA": {
+  "name": "California",
+  "rows": {
+   "Radiography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": "Certification"
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": "Certification"
+   },
+   "Mammography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiologic Health Branch",
+    "url": "https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/RHB.aspx"
+   }
+  ]
+ },
+ "CO": {
+  "name": "Colorado",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Hold national cred.",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Hold national cred.",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Hold national cred.",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Hold national cred.",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": "Registration"
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "Hold national cred.",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": "Registration"
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": "Registration"
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Colorado Department of Public Health and Environment, Radiation Management",
+    "url": "https://cdphe.colorado.gov/hm/xray-certification-faqs"
+   }
+  ]
+ },
+ "CT": {
+  "name": "Connecticut",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Hold nat'l cred",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Hold nat'l cred",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "Hold nat'l cred",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Connecticut Department of Public Health, Practitioner Licensing and Investigations Section",
+    "url": "https://portal.ct.gov/DPH/Practitioner-Licensing--Investigations/Radiographer/Radiographer-Licensure"
+   }
+  ]
+ },
+ "DE": {
+  "name": "Delaware",
+  "rows": {
+   "Radiography": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Delaware Authority on Radiation Protection",
+    "url": "https://dhss.delaware.gov/dph/hsp/orcradtechs.html"
+   }
+  ]
+ },
+ "FL": {
+  "name": "Florida",
+  "rows": {
+   "Radiography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Florida Bureau of Radiation Control",
+    "url": "https://www.floridahealth.gov/environmental-health/radiation-control/radtech/index.html"
+   }
+  ]
+ },
+ "GA": {
+  "name": "Georgia",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Georgia Department of Community Health Georgia Department of Natural Resources",
+    "url": "https://dch.georgia.gov/divisionsoffices/hfrd"
+   }
+  ]
+ },
+ "HI": {
+  "name": "Hawaii",
+  "rows": {
+   "Radiography": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Hawaii Department of Health, Indoor and Radiological Health Branch",
+    "url": "https://health.hawaii.gov/irhb/radforms/"
+   }
+  ]
+ },
+ "ID": {
+  "name": "Idaho",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/x-ray-licensure"
+   }
+  ]
+ },
+ "IL": {
+  "name": "Illinois",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Illinois Emergency Management Agency",
+    "url": "https://public.iema.state.il.us/iema/radiation/radtech/radtechlogin.asp"
+   }
+  ]
+ },
+ "IN": {
+  "name": "Indiana",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certification",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Indiana State Department ofHealth, Medical Radiology Services",
+    "url": "https://www.in.gov/health/cshcr/radiology-weights-and-measures"
+   }
+  ]
+ },
+ "IA": {
+  "name": "Iowa",
+  "rows": {
+   "Radiography": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Iowa Department of Public Health",
+    "url": "https://idph.iowa.gov/Permits-To-Operate"
+   }
+  ]
+ },
+ "KS": {
+  "name": "Kansas",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Kansas Board of Healing Arts",
+    "url": "https://www.ksbha.ks.gov/"
+   }
+  ]
+ },
+ "KY": {
+  "name": "Kentucky",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Kentucky Board of Medical Imaging and Radiation Therapy",
+    "url": "https://kbmirt.ky.gov/Pages/index.aspx"
+   }
+  ]
+ },
+ "LA": {
+  "name": "Louisiana",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Louisiana State Radiologic Technology Board of Examiners",
+    "url": "https://lsrtbe.org/"
+   }
+  ]
+ },
+ "ME": {
+  "name": "Maine",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiologic Technology Board of Examiners",
+    "url": "https://www.maine.gov/pfr/professionallicensing/professions/radiologic-technology-board-examiners"
+   }
+  ]
+ },
+ "MD": {
+  "name": "Maryland",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "Registry",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Maryland Board of Physicians",
+    "url": "https://www.mbp.state.md.us/licensure_ahapp.aspx"
+   }
+  ]
+ },
+ "MA": {
+  "name": "Massachusetts",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control Program",
+    "url": "https://www.mass.gov/how-to/renew-your-radiologic-technologist-license"
+   }
+  ]
+ },
+ "MI": {
+  "name": "Michigan",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": "Standard"
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": "Standard"
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": "Standard"
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": "Standard"
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Safety Section",
+    "url": "https://www.michigan.gov/leo/bureaus-agencies/MIOSHA/Divisions/technical-services-division/rad-safety"
+   }
+  ]
+ },
+ "MN": {
+  "name": "Minnesota",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "Register",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Accredited",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "https://www.health.state.mn.us/communities/environment/radiation/xray/index.html"
+   }
+  ]
+ },
+ "MS": {
+  "name": "Mississippi",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Register",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Register",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Register",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Mississippi Department of Health, Professional Licensure",
+    "url": "https://msdh.ms.gov/msdhsite/_static/30,0,82.html#professions"
+   }
+  ]
+ },
+ "MO": {
+  "name": "Missouri",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Missouri Department of Health and Senior Services - Radiation Control Program",
+    "url": "https://health.mo.gov/providers/radiation-control"
+   }
+  ]
+ },
+ "MT": {
+  "name": "Montana",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Montana Board of Radiologic Technologists",
+    "url": "https://boards.bsd.dli.mt.gov/radiologic-technologists/"
+   }
+  ]
+ },
+ "NE": {
+  "name": "Nebraska",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Department of Health and Human Services",
+    "url": "https://dhhs.ne.gov/licensure/Pages/Medical-Radiography.aspx"
+   }
+  ]
+ },
+ "NV": {
+  "name": "Nevada",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "https://dpbh.nv.gov/Reg/RPM/Radiation_Producing_Machines_-_Home/"
+   }
+  ]
+ },
+ "NH": {
+  "name": "New Hampshire",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Board of Medical Imaging and Radiation Therapy",
+    "url": "https://www.oplc.nh.gov/advisory-board-medical-imaging-and-radiation-therapy"
+   }
+  ]
+ },
+ "NJ": {
+  "name": "New Jersey",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "New Jersey Department of Environmental Protection",
+    "url": "https://www.state.nj.us/dep/rpp/tec/index.htm"
+   }
+  ]
+ },
+ "NM": {
+  "name": "New Mexico",
+  "rows": {
+   "Radiography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Medical Imaging & Radiation Therapy Program",
+    "url": "https://www.env.nm.gov/rcb/medical-imaging-radiation-therapy-program/"
+   }
+  ]
+ },
+ "NY": {
+  "name": "New York",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Bureau of Environmental Radiation Protection",
+    "url": "https://www.health.ny.gov/professionals/doctors/radiological/"
+   }
+  ]
+ },
+ "NC": {
+  "name": "North Carolina",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": "Standard"
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "https://radiation.ncdhhs.gov/"
+   }
+  ]
+ },
+ "ND": {
+  "name": "North Dakota",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "North Dakota Medical Imaging and Radiation Therapy Board",
+    "url": "https://www.ndmirtboard.com/"
+   }
+  ]
+ },
+ "OH": {
+  "name": "Ohio",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certifed",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Ohio Department of Health",
+    "url": "https://odh.ohio.gov/know-our-programs/radiologic-licensure/radiologic-licensure"
+   }
+  ]
+ },
+ "OK": {
+  "name": "Oklahoma",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Oklahoma Board of Medical Licensure and Supervision",
+    "url": "https://www.okmedicalboard.org/radiologist_assistants"
+   }
+  ]
+ },
+ "OR": {
+  "name": "Oregon",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Oregon Board of Medical Imaging",
+    "url": "https://www.oregon.gov/obmi/Pages/index.aspx"
+   }
+  ]
+ },
+ "PA": {
+  "name": "Pennsylvania",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Radiation Control",
+    "url": "https://www.dep.pa.gov/Business/RadiationProtection/RadiationControl/X-rayMachineProgram/Pages/ContinuingEd.aspx"
+   }
+  ]
+ },
+ "RI": {
+  "name": "Rhode Island",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Department of Health",
+    "url": "https://health.ri.gov/licenses/detail.php?id=242"
+   }
+  ]
+ },
+ "SC": {
+  "name": "South Carolina",
+  "rows": {
+   "Radiography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "SC Radiation Quality Standards Association",
+    "url": "https://www.scrqsa.org/"
+   }
+  ]
+ },
+ "SD": {
+  "name": "South Dakota",
+  "rows": {
+   "Radiography": {
+    "lic": "",
+    "std": "",
+    "eq": "Regulation"
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": "Regulation"
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "South Dakota Department of Health",
+    "url": "https://doh.sd.gov/"
+   }
+  ]
+ },
+ "TN": {
+  "name": "Tennessee",
+  "rows": {
+   "Radiography": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Board of Medical Examiners",
+    "url": "https://www.tn.gov/health/licensure/xray.html"
+   }
+  ]
+ },
+ "TX": {
+  "name": "Texas",
+  "rows": {
+   "Radiography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Texas Medical Board",
+    "url": "https://www.tmb.texas.gov/apply-renew/medical-radiologic-technologist"
+   }
+  ]
+ },
+ "UT": {
+  "name": "Utah",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Utah Division of Professional Licensing",
+    "url": "https://dopl.utah.gov/radiologic-technology/"
+   }
+  ]
+ },
+ "VT": {
+  "name": "Vermont",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certificate",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Office of Professional Regulation",
+    "url": "https://sos.vermont.gov/radiologic-technology/"
+   }
+  ]
+ },
+ "VA": {
+  "name": "Virginia",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Board of Medicine",
+    "url": "http://www.dhp.virginia.gov/Boards/Medicine/AbouttheBoard/RegulatedProfessions/RadiologicTechnology/"
+   }
+  ]
+ },
+ "WA": {
+  "name": "Washington",
+  "rows": {
+   "Radiography": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "Certified",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Department of Health",
+    "url": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/radiologic-technologist"
+   }
+  ]
+ },
+ "DC": {
+  "name": "Washington, D.C.",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Department of Health",
+    "url": "https://dchealth.dc.gov/service/radiation-control-medical-devices-division"
+   }
+  ]
+ },
+ "WV": {
+  "name": "West Virginia",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Medical Imaging & Radiation Therapy Technology Board of Examiner",
+    "url": "https://wvrtboard.gov/"
+   }
+  ]
+ },
+ "WI": {
+  "name": "Wisconsin",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "Permit",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "Standard",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Department of Health Services",
+    "url": "https://dsps.wi.gov/Pages/Professions/RadiographerLicensed/Default.aspx"
+   }
+  ]
+ },
+ "WY": {
+  "name": "Wyoming",
+  "rows": {
+   "Radiography": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Computed Tomography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Magnetic Resonance": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Nuclear Medicine": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "CI/VI": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Radiation Therapy": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Sonography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Limited Technologist": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Radiologist Assistant": {
+    "lic": "License",
+    "std": "",
+    "eq": ""
+   },
+   "Fluoroscopy": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Fusion Imaging": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Mammography": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   },
+   "Bone Densitometry": {
+    "lic": "",
+    "std": "",
+    "eq": ""
+   }
+  },
+  "agencies": [
+   {
+    "agency": "Board of Radiologic Technologists Examiners",
+    "url": "https://radiology.wyo.gov/"
+   }
+  ]
+ }
+}

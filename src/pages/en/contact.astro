@@ -1,0 +1,24 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('contact', lang);
+const description = 'Write to Sonographer By State about a state license rule, an exam fee or a program figure that changed. E-mail only: no application filed, nothing passed on to anyone.';
+---
+<PageLayout title="Contact Sonographer By State: report a rule that changed" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. There is no form and no phone line, and nothing you write is passed on to anyone.</p>
+    <h2>What helps us most</h2>
+    <ul>
+      <li>A state rule that changed: a new license, a new fee, a new board, with the address of the official page.</li>
+      <li>An ARRT or ARDMS fee we read wrong: quote the official page that says otherwise.</li>
+      <li>A fact from a state agency page that refused our reader, quoted from that page.</li>
+      <li>Embedding the checker on a school, career center or library page: the code is on the <a href={route('widget', lang)}>embed page</a>.</li>
+    </ul>
+    <h2>What we cannot do</h2>
+    <p>We do not file applications, issue licenses, grade exams, enroll students or say whether you qualify. Your state agency, ARRT, ARDMS and your school are the ones who can.</p>
+  </article>
+</PageLayout>

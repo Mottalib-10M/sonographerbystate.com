@@ -1,0 +1,4341 @@
+{
+ "read": "2026-11-13",
+ "asrt": "https://www.asrt.org/main/standards-and-regulations/legislation-regulations-and-advocacy/individual-state-licensure",
+ "states": [
+  {
+   "code": "AL",
+   "name": "Alabama",
+   "slug": "alabama-rad-tech-license",
+   "agency": "Alabama Department of Public Health, Radiation Control",
+   "page": "http://www.alabamapublichealth.gov/radiation",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "http://www.alabamapublichealth.gov/radiation"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The radiation control pages of the Alabama Department of Public Health that we read deal with x-ray compliance and the registration of equipment; they publish no license for the people who take the images."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "AK",
+   "name": "Alaska",
+   "slug": "alaska-rad-tech-license",
+   "agency": "Alaska Radiological Health Program",
+   "page": "https://dhss.alaska.gov/dph/labs/pages/radiological/default.aspx",
+   "agencies": [
+    {
+     "agency": "Radiological Health Program",
+     "url": "https://dhss.alaska.gov/dph/labs/pages/radiological/default.aspx"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "AZ",
+   "name": "Arizona",
+   "slug": "arizona-rad-tech-license",
+   "agency": "Arizona Bureau of Special Licensing",
+   "page": "https://azdhs.gov/licensing/special/index.php#mrt",
+   "agencies": [
+    {
+     "agency": "Arizona Bureau of Special Licensing",
+     "url": "https://azdhs.gov/licensing/special/index.php#mrt"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Arizona Department of Health Services files medical radiologic technologists under its Bureau of Special Licensing, through an individual licensing portal."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "AR",
+   "name": "Arkansas",
+   "slug": "arkansas-rad-tech-license",
+   "agency": "Arkansas Radiologic Technology Licensure Program",
+   "page": "https://www.healthy.arkansas.gov/programs-services/topics/radiologic-technology-licensure-program",
+   "agencies": [
+    {
+     "agency": "Arkansas Radiologic Technology Licensure Program",
+     "url": "https://www.healthy.arkansas.gov/programs-services/topics/radiologic-technology-licensure-program"
+    },
+    {
+     "agency": "Arkansas Radiologist Assistant Licensure Department",
+     "url": "http://www.armedicalboard.org/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Arkansas Department of Health runs a Radiologic Technology Licensure Program, advised by a Medical Ionizing Radiation Licensure Committee (MIRLC), with online renewal payments.",
+    "Radiologist assistants are a separate matter for the Arkansas State Medical Board, whose public comment period on a proposed radiologist assistant rule ends on November 15, 2026."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "CA",
+   "name": "California",
+   "slug": "california-rad-tech-license",
+   "agency": "California Department of Public Health, Radiologic Health Branch",
+   "page": "https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/RHB.aspx",
+   "agencies": [
+    {
+     "agency": "Radiologic Health Branch",
+     "url": "https://www.cdph.ca.gov/Programs/CEH/DRSEM/Pages/RHB.aspx"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": "Certification"
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": "Certification"
+    },
+    "mammo": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The California Department of Public Health, through its Radiologic Health Branch (RHB), certifies radiologic technologists and runs a state exam for limited permits.",
+    "The branch warns that, because of a software update, its pages are not updated from October 2 to November 13, 2026, while the certificate and permit search tool keeps working."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "CO",
+   "name": "Colorado",
+   "slug": "colorado-rad-tech-license",
+   "agency": "Colorado Department of Public Health and Environment, Radiation Management",
+   "page": "https://cdphe.colorado.gov/hm/xray-certification-faqs",
+   "agencies": [
+    {
+     "agency": "Colorado Department of Public Health and Environment, Radiation Management",
+     "url": "https://cdphe.colorado.gov/hm/xray-certification-faqs"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Hold national cred.",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Hold national cred.",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Hold national cred.",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Hold national cred.",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": "Registration"
+    },
+    "ra": {
+     "lic": "",
+     "std": "Hold national cred.",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": "Registration"
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": "Registration"
+    }
+   },
+   "say": [
+    "The Colorado Department of Public Health and Environment answers plainly: Colorado is a non-licensure state, and a technologist certified and registered with ARRT or NMTCB needs no separate Colorado license or registration.",
+    "Limited scope operators register with the state for two years at a time and bone density operators for three years; a provisional mammographer registration lasts one year and may be renewed only once."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "CT",
+   "name": "Connecticut",
+   "slug": "connecticut-rad-tech-license",
+   "agency": "Connecticut Department of Public Health, Practitioner Licensing and Investigations Section",
+   "page": "https://portal.ct.gov/DPH/Practitioner-Licensing--Investigations/Radiographer/Radiographer-Licensure",
+   "agencies": [
+    {
+     "agency": "Connecticut Department of Public Health, Practitioner Licensing and Investigations Section",
+     "url": "https://portal.ct.gov/DPH/Practitioner-Licensing--Investigations/Radiographer/Radiographer-Licensure"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Hold nat'l cred",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Hold nat'l cred",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "Hold nat'l cred",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Connecticut Department of Public Health licenses radiographers through its Practitioner Licensing and Investigations Section and offers a route for applicants licensed in another state for at least four years."
+   ],
+   "fees": {
+    "Initial application": 200,
+    "Renewal": 105,
+    "Reinstatement": 200
+   }
+  },
+  {
+   "code": "DE",
+   "name": "Delaware",
+   "slug": "delaware-rad-tech-license",
+   "agency": "Delaware Authority on Radiation Protection",
+   "page": "https://dhss.delaware.gov/dph/hsp/orcradtechs.html",
+   "agencies": [
+    {
+     "agency": "Delaware Authority on Radiation Protection",
+     "url": "https://dhss.delaware.gov/dph/hsp/orcradtechs.html"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "DC",
+   "name": "District of Columbia",
+   "slug": "district-of-columbia-rad-tech-license",
+   "agency": "DC Health",
+   "page": "https://dchealth.dc.gov/service/radiation-control-medical-devices-division",
+   "agencies": [
+    {
+     "agency": "Department of Health",
+     "url": "https://dchealth.dc.gov/service/radiation-control-medical-devices-division"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "DC Health licenses radiography and sonography professionals through its Division of Radiation Control and Medical Devices, which has opened an online application portal for all its applications."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "FL",
+   "name": "Florida",
+   "slug": "florida-rad-tech-license",
+   "agency": "Florida Department of Health, Bureau of Radiation Control",
+   "page": "https://www.floridahealth.gov/environmental-health/radiation-control/radtech/index.html",
+   "agencies": [
+    {
+     "agency": "Florida Bureau of Radiation Control",
+     "url": "https://www.floridahealth.gov/environmental-health/radiation-control/radtech/index.html"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Florida Department of Health certifies the people who operate radiation machines or administer radioactive materials to patients, and publishes study materials for the Basic X-Ray Machine Operator."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "GA",
+   "name": "Georgia",
+   "slug": "georgia-rad-tech-license",
+   "agency": "Georgia Department of Community Health",
+   "page": "https://dch.georgia.gov/divisionsoffices/hfrd",
+   "agencies": [
+    {
+     "agency": "Georgia Department of Community Health Georgia Department of Natural Resources",
+     "url": "https://dch.georgia.gov/divisionsoffices/hfrd"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The page the ASRT points to for Georgia is the Healthcare Facility Regulation Division of the Department of Community Health, which licenses facilities and lists x-ray among its programs."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "HI",
+   "name": "Hawaii",
+   "slug": "hawaii-rad-tech-license",
+   "agency": "Hawaii Department of Health, Indoor and Radiological Health Branch",
+   "page": "https://health.hawaii.gov/irhb/radforms/",
+   "agencies": [
+    {
+     "agency": "Hawaii Department of Health, Indoor and Radiological Health Branch",
+     "url": "https://health.hawaii.gov/irhb/radforms/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Hawaii’s Radiologic Technology Board licenses radiographers, radiation therapists and nuclear medicine technologists; the Department of Health mails renewal forms about 45 days before a license expires, and a license defunct for less than a year can be re-applied for."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "ID",
+   "name": "Idaho",
+   "slug": "idaho-rad-tech-license",
+   "agency": "Idaho Radiation Control Program",
+   "page": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/x-ray-licensure",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/x-ray-licensure"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Idaho Radiation Control Program, in the Department of Health and Welfare, oversees x-ray and mammography licensure, registration and inspection of facilities and equipment; we found no license for the operator."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "IL",
+   "name": "Illinois",
+   "slug": "illinois-rad-tech-license",
+   "agency": "Illinois Emergency Management Agency",
+   "page": "https://public.iema.state.il.us/iema/radiation/radtech/radtechlogin.asp",
+   "agencies": [
+    {
+     "agency": "Illinois Emergency Management Agency",
+     "url": "https://public.iema.state.il.us/iema/radiation/radtech/radtechlogin.asp"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Illinois Emergency Management Agency accredits radiologic technologists rather than licensing them: accreditation costs $120 and is valid for two years, with renewal open up to 60 days before it expires.",
+    "Limited scope radiography needs a passed exam before accreditation, and a temporary accreditation holder must pass the ARRT boards within two years to renew."
+   ],
+   "fees": {
+    "Accreditation (2 years)": 120
+   }
+  },
+  {
+   "code": "IN",
+   "name": "Indiana",
+   "slug": "indiana-rad-tech-license",
+   "agency": "Indiana Department of Health",
+   "page": "https://www.in.gov/health/cshcr/radiology-weights-and-measures",
+   "agencies": [
+    {
+     "agency": "Indiana State Department ofHealth, Medical Radiology Services",
+     "url": "https://www.in.gov/health/cshcr/radiology-weights-and-measures"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certification",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Indiana Department of Health, Division of Radiology, Weights and Measures, licenses radiologic technologists and issues permits; a paper application goes in with a $60 check or money order, and a name change costs $20."
+   ],
+   "fees": {
+    "License application": 60,
+    "Name change": 20
+   }
+  },
+  {
+   "code": "IA",
+   "name": "Iowa",
+   "slug": "iowa-rad-tech-license",
+   "agency": "Iowa Department of Health and Human Services",
+   "page": "https://idph.iowa.gov/Permits-To-Operate",
+   "agencies": [
+    {
+     "agency": "Iowa Department of Public Health",
+     "url": "https://idph.iowa.gov/Permits-To-Operate"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "KS",
+   "name": "Kansas",
+   "slug": "kansas-rad-tech-license",
+   "agency": "Kansas Board of Healing Arts",
+   "page": "https://www.ksbha.ks.gov/",
+   "agencies": [
+    {
+     "agency": "Kansas Board of Healing Arts",
+     "url": "https://www.ksbha.ks.gov/"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "KY",
+   "name": "Kentucky",
+   "slug": "kentucky-rad-tech-license",
+   "agency": "Kentucky Board of Medical Imaging and Radiation Therapy",
+   "page": "https://kbmirt.ky.gov/Pages/index.aspx",
+   "agencies": [
+    {
+     "agency": "Kentucky Board of Medical Imaging and Radiation Therapy",
+     "url": "https://kbmirt.ky.gov/Pages/index.aspx"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "LA",
+   "name": "Louisiana",
+   "slug": "louisiana-rad-tech-license",
+   "agency": "Louisiana State Radiologic Technology Board of Examiners",
+   "page": "https://lsrtbe.org/",
+   "agencies": [
+    {
+     "agency": "Louisiana State Radiologic Technology Board of Examiners",
+     "url": "https://lsrtbe.org/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Louisiana State Radiologic Technology Board of Examiners (LSRTBE) licenses technologists for two-year cycles (the current one is 2026-2028); a license not renewed by May 31, 2026 expired, and working with an expired license is illegal in Louisiana.",
+    "Since January 2026 the board issues Limited X-Ray Machine Operator (LXMO) permits: after an approved program and the ARRT limited scope exam for Louisiana, the holder gets a two-year permit and no longer needs direct supervision."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "ME",
+   "name": "Maine",
+   "slug": "maine-rad-tech-license",
+   "agency": "Maine Radiologic Technology Board of Examiners",
+   "page": "https://www.maine.gov/pfr/professionallicensing/professions/radiologic-technology-board-examiners",
+   "agencies": [
+    {
+     "agency": "Radiologic Technology Board of Examiners",
+     "url": "https://www.maine.gov/pfr/professionallicensing/professions/radiologic-technology-board-examiners"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Maine licenses radiologic technologists through the Radiologic Technology Board of Examiners in the Office of Professional and Occupational Regulation, which issues no paper license verifications."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "MD",
+   "name": "Maryland",
+   "slug": "maryland-rad-tech-license",
+   "agency": "Maryland Board of Physicians",
+   "page": "https://www.mbp.state.md.us/licensure_ahapp.aspx",
+   "agencies": [
+    {
+     "agency": "Maryland Board of Physicians",
+     "url": "https://www.mbp.state.md.us/licensure_ahapp.aspx"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "Registry",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Maryland Board of Physicians licenses radiographers among its allied health professions, alongside limited x-ray machine operators, nuclear medicine technologists and other technologists."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "MA",
+   "name": "Massachusetts",
+   "slug": "massachusetts-rad-tech-license",
+   "agency": "Massachusetts Radiation Control Program",
+   "page": "https://www.mass.gov/how-to/renew-your-radiologic-technologist-license",
+   "agencies": [
+    {
+     "agency": "Radiation Control Program",
+     "url": "https://www.mass.gov/how-to/renew-your-radiologic-technologist-license"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "MI",
+   "name": "Michigan",
+   "slug": "michigan-rad-tech-license",
+   "agency": "Michigan Radiation Safety Section",
+   "page": "https://www.michigan.gov/leo/bureaus-agencies/MIOSHA/Divisions/technical-services-division/rad-safety",
+   "agencies": [
+    {
+     "agency": "Radiation Safety Section",
+     "url": "https://www.michigan.gov/leo/bureaus-agencies/MIOSHA/Divisions/technical-services-division/rad-safety"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": "Standard"
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": "Standard"
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": "Standard"
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": "Standard"
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "MN",
+   "name": "Minnesota",
+   "slug": "minnesota-rad-tech-license",
+   "agency": "Minnesota Department of Health, Radiation Control",
+   "page": "https://www.health.state.mn.us/communities/environment/radiation/xray/index.html",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "https://www.health.state.mn.us/communities/environment/radiation/xray/index.html"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "Register",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Accredited",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Minnesota does not license full radiographers, but since August 1, 2020 a limited scope x-ray operator and a bone densitometry equipment operator must register with the Minnesota Department of Health after passing the exam modules (Minnesota Statute 144.121)."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "MS",
+   "name": "Mississippi",
+   "slug": "mississippi-rad-tech-license",
+   "agency": "Mississippi State Department of Health, Professional Licensure",
+   "page": "https://msdh.ms.gov/resources/public-health-forms/license-application-forms/by-profession",
+   "agencies": [
+    {
+     "agency": "Mississippi Department of Health, Professional Licensure",
+     "url": "https://msdh.ms.gov/resources/public-health-forms/license-application-forms/by-profession"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Register",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Register",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Register",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "MO",
+   "name": "Missouri",
+   "slug": "missouri-rad-tech-license",
+   "agency": "Missouri Department of Health and Senior Services, Radiation Control Program",
+   "page": "https://health.mo.gov/providers/radiation-control",
+   "agencies": [
+    {
+     "agency": "Missouri Department of Health and Senior Services - Radiation Control Program",
+     "url": "https://health.mo.gov/providers/radiation-control"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "MT",
+   "name": "Montana",
+   "slug": "montana-rad-tech-license",
+   "agency": "Montana Board of Radiologic Technologists",
+   "page": "https://boards.bsd.dli.mt.gov/radiologic-technologists/",
+   "agencies": [
+    {
+     "agency": "Montana Board of Radiologic Technologists",
+     "url": "https://boards.bsd.dli.mt.gov/radiologic-technologists/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Montana board licenses radiologic technologists and limited permit holders: a license needs ARRT certification in radiography and a 24-month approved program, the application costs $100, and a temporary permit is possible before the ARRT exam.",
+    "Every license expires on February 1. Renewal costs $75 for a technologist and $60 for a limited permit holder, and the late fee equals the renewal fee. Limited permit holders need six hours of continuing education each year; technologists follow ARRT rules."
+   ],
+   "fees": {
+    "Application": 100,
+    "Annual renewal (technologist)": 75,
+    "Annual renewal (limited permit)": 60
+   }
+  },
+  {
+   "code": "NE",
+   "name": "Nebraska",
+   "slug": "nebraska-rad-tech-license",
+   "agency": "Nebraska Department of Health and Human Services",
+   "page": "https://dhhs.ne.gov/licensure/Pages/Medical-Radiography.aspx",
+   "agencies": [
+    {
+     "agency": "Department of Health and Human Services",
+     "url": "https://dhhs.ne.gov/licensure/Pages/Medical-Radiography.aspx"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "NV",
+   "name": "Nevada",
+   "slug": "nevada-rad-tech-license",
+   "agency": "Nevada Radiation Control Program",
+   "page": "https://dpbh.nv.gov/Reg/RPM/Radiation_Producing_Machines_-_Home/",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "https://dpbh.nv.gov/Reg/RPM/Radiation_Producing_Machines_-_Home/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Nevada’s Division of Public and Behavioral Health runs a technologist application program inside its Radiation Control program, advised by a Radiation Therapy and Radiologic Imaging Advisory Committee."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "NH",
+   "name": "New Hampshire",
+   "slug": "new-hampshire-rad-tech-license",
+   "agency": "New Hampshire Board of Medical Imaging and Radiation Therapy",
+   "page": "https://www.oplc.nh.gov/advisory-board-medical-imaging-and-radiation-therapy",
+   "agencies": [
+    {
+     "agency": "Board of Medical Imaging and Radiation Therapy",
+     "url": "https://www.oplc.nh.gov/advisory-board-medical-imaging-and-radiation-therapy"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "NJ",
+   "name": "New Jersey",
+   "slug": "new-jersey-rad-tech-license",
+   "agency": "New Jersey Department of Environmental Protection",
+   "page": "https://www.state.nj.us/dep/rpp/tec/index.htm",
+   "agencies": [
+    {
+     "agency": "New Jersey Department of Environmental Protection",
+     "url": "https://www.state.nj.us/dep/rpp/tec/index.htm"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "NM",
+   "name": "New Mexico",
+   "slug": "new-mexico-rad-tech-license",
+   "agency": "New Mexico Medical Imaging and Radiation Therapy Program",
+   "page": "https://www.env.nm.gov/rcb/medical-imaging-radiation-therapy-program/",
+   "agencies": [
+    {
+     "agency": "Medical Imaging & Radiation Therapy Program",
+     "url": "https://www.env.nm.gov/rcb/medical-imaging-radiation-therapy-program/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The New Mexico Environment Department’s Medical Imaging and Radiation Therapy Program licenses radiography and sonography professionals; certificates arrive by mail in 15 to 20 business days, and a duplicate costs $15.",
+    "The program asks licensees to review its regulations every year, because they can change after the advisory council’s annual December meeting."
+   ],
+   "fees": {
+    "Duplicate certificate": 15
+   }
+  },
+  {
+   "code": "NY",
+   "name": "New York",
+   "slug": "new-york-rad-tech-license",
+   "agency": "New York Bureau of Environmental Radiation Protection",
+   "page": "https://www.health.ny.gov/professionals/doctors/radiological/",
+   "agencies": [
+    {
+     "agency": "Bureau of Environmental Radiation Protection",
+     "url": "https://www.health.ny.gov/professionals/doctors/radiological/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "New York law requires radiologic technologists to be licensed and registered by the State Department of Health; its Bureau of Environmental Radiation Protection licenses radiography, radiation therapy and nuclear medicine, and unregistered technologists may not practice.",
+    "Technologists with the right training can also be certified to inject contrast media, and the public registration database is updated weekly."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "NC",
+   "name": "North Carolina",
+   "slug": "north-carolina-rad-tech-license",
+   "agency": "North Carolina Radiation Control",
+   "page": "https://radiation.ncdhhs.gov/",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "https://radiation.ncdhhs.gov/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": "Standard"
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "ND",
+   "name": "North Dakota",
+   "slug": "north-dakota-rad-tech-license",
+   "agency": "North Dakota Medical Imaging and Radiation Therapy Board",
+   "page": "https://www.ndmirtboard.com/",
+   "agencies": [
+    {
+     "agency": "North Dakota Medical Imaging and Radiation Therapy Board",
+     "url": "https://www.ndmirtboard.com/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The North Dakota Medical Imaging and Radiation Therapy Board licenses imaging professionals, sonographers included, and offers conditional licenses for students (sonography, CIS and CES, MRI), temporary licenses, limited x-ray machine operator licenses and bone densitometry licenses."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "OH",
+   "name": "Ohio",
+   "slug": "ohio-rad-tech-license",
+   "agency": "Ohio Department of Health, Radiologic Licensure",
+   "page": "https://odh.ohio.gov/know-our-programs/radiologic-licensure/radiologic-licensure",
+   "agencies": [
+    {
+     "agency": "Ohio Department of Health",
+     "url": "https://odh.ohio.gov/know-our-programs/radiologic-licensure/radiologic-licensure"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certifed",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Ohio Department of Health’s Radiologic Licensure program has licensed about 17,000 operators and approved 110 educational facilities and 180 continuing education courses.",
+    "A renewal filed more than 30 days after expiry needs a new application with a $65 fee ($45 after active military service), 24 continuing education credits and proof of the ARRT or NMTCB exam; general x-ray machine operators (GXMO) pass a state exam instead."
+   ],
+   "fees": {
+    "Late renewal application": 65
+   }
+  },
+  {
+   "code": "OK",
+   "name": "Oklahoma",
+   "slug": "oklahoma-rad-tech-license",
+   "agency": "Oklahoma Board of Medical Licensure and Supervision",
+   "page": "https://www.okmedicalboard.org/radiologist_assistants",
+   "agencies": [
+    {
+     "agency": "Oklahoma Board of Medical Licensure and Supervision",
+     "url": "https://www.okmedicalboard.org/radiologist_assistants"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Oklahoma page the ASRT points to is the Board of Medical Licensure and Supervision, which licenses radiologist assistants, advanced-level technologists, and charges $25 for a written license verification."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "OR",
+   "name": "Oregon",
+   "slug": "oregon-rad-tech-license",
+   "agency": "Oregon Board of Medical Imaging",
+   "page": "https://www.oregon.gov/obmi/Pages/index.aspx",
+   "agencies": [
+    {
+     "agency": "Oregon Board of Medical Imaging",
+     "url": "https://www.oregon.gov/obmi/Pages/index.aspx"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Oregon Board of Medical Imaging licenses imaging professionals, sonographers included, and issues limited permits; its mission covers everyone performing imaging studies for diagnosis and therapy."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "PA",
+   "name": "Pennsylvania",
+   "slug": "pennsylvania-rad-tech-license",
+   "agency": "Pennsylvania Department of Environmental Protection, Radiation Control",
+   "page": "https://www.dep.pa.gov/Business/RadiationProtection/RadiationControl/X-rayMachineProgram/Pages/ContinuingEd.aspx",
+   "agencies": [
+    {
+     "agency": "Radiation Control",
+     "url": "https://www.dep.pa.gov/Business/RadiationProtection/RadiationControl/X-rayMachineProgram/Pages/ContinuingEd.aspx"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Pennsylvania’s Department of Environmental Protection asks every owner of a radiation-producing machine to register and renew each year, and lists refresher training for x-ray equipment operators."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "RI",
+   "name": "Rhode Island",
+   "slug": "rhode-island-rad-tech-license",
+   "agency": "Rhode Island Department of Health",
+   "page": "https://health.ri.gov/licenses/detail.php?id=242",
+   "agencies": [
+    {
+     "agency": "Department of Health",
+     "url": "https://health.ri.gov/licenses/detail.php?id=242"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "SC",
+   "name": "South Carolina",
+   "slug": "south-carolina-rad-tech-license",
+   "agency": "South Carolina Radiation Quality Standards Association",
+   "page": "https://www.scrqsa.org/",
+   "agencies": [
+    {
+     "agency": "SC Radiation Quality Standards Association",
+     "url": "https://www.scrqsa.org/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "South Carolina certifies operators through the Radiation Quality Standards Association (SCRQSA): radiography, nuclear medicine (ARRT or SNMMI), radiation therapy, CT, limited practice radiographers and bone densitometry operators, with ARRT, NMTCB, RCIS, RCES or continuing education verification sent in with the application."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "SD",
+   "name": "South Dakota",
+   "slug": "south-dakota-rad-tech-license",
+   "agency": "South Dakota Department of Health",
+   "page": "https://doh.sd.gov/",
+   "agencies": [
+    {
+     "agency": "South Dakota Department of Health",
+     "url": "https://doh.sd.gov/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "",
+     "std": "",
+     "eq": "Regulation"
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": "Regulation"
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "TN",
+   "name": "Tennessee",
+   "slug": "tennessee-rad-tech-license",
+   "agency": "Tennessee Board of Medical Examiners",
+   "page": "https://www.tn.gov/health/licensure/xray.html",
+   "agencies": [
+    {
+     "agency": "Board of Medical Examiners",
+     "url": "https://www.tn.gov/health/licensure/xray.html"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "TX",
+   "name": "Texas",
+   "slug": "texas-rad-tech-license",
+   "agency": "Texas Medical Board",
+   "page": "https://www.tmb.texas.gov/apply-renew/medical-radiologic-technologist",
+   "agencies": [
+    {
+     "agency": "Texas Medical Board",
+     "url": "https://www.tmb.texas.gov/apply-renew/medical-radiologic-technologist"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Texas Medical Board offers a general medical radiologic technologist certificate and limited and temporary permits, keeps a registry of non-certified radiologic technicians, grants hardship exemptions and runs a limited technologist exam."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "UT",
+   "name": "Utah",
+   "slug": "utah-rad-tech-license",
+   "agency": "Utah Division of Professional Licensing",
+   "page": "https://dopl.utah.gov/radiologic-technology/",
+   "agencies": [
+    {
+     "agency": "Utah Division of Professional Licensing",
+     "url": "https://dopl.utah.gov/radiologic-technology/"
+    }
+   ],
+   "read": "blocked",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [],
+   "fees": {}
+  },
+  {
+   "code": "VT",
+   "name": "Vermont",
+   "slug": "vermont-rad-tech-license",
+   "agency": "Vermont Office of Professional Regulation",
+   "page": "https://sos.vermont.gov/radiologic-technology/",
+   "agencies": [
+    {
+     "agency": "Office of Professional Regulation",
+     "url": "https://sos.vermont.gov/radiologic-technology/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certificate",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Vermont’s Office of Professional Regulation (Secretary of State) licenses radiologic technologists under its advisor model, with online application and renewal."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "VA",
+   "name": "Virginia",
+   "slug": "virginia-rad-tech-license",
+   "agency": "Virginia Board of Medicine",
+   "page": "http://www.dhp.virginia.gov/Boards/Medicine/AbouttheBoard/RegulatedProfessions/RadiologicTechnology/",
+   "agencies": [
+    {
+     "agency": "Board of Medicine",
+     "url": "http://www.dhp.virginia.gov/Boards/Medicine/AbouttheBoard/RegulatedProfessions/RadiologicTechnology/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Virginia Board of Medicine licenses radiologic technologists and limited radiologic technologists. A license is renewed every two years, in the birth month of odd-numbered years, for $135.",
+    "A technologist employed by a hospital, a health system or an affiliated urgent care center needs no Board of Medicine license to work in those settings (board FAQ 2)."
+   ],
+   "fees": {
+    "Biennial renewal": 135
+   }
+  },
+  {
+   "code": "WA",
+   "name": "Washington",
+   "slug": "washington-rad-tech-license",
+   "agency": "Washington State Department of Health",
+   "page": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/radiologic-technologist",
+   "agencies": [
+    {
+     "agency": "Department of Health",
+     "url": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/radiologic-technologist"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "Certified",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The Washington State Department of Health credentials radiologic technologists and, separately, limited scope x-ray technicians and radiologist assistants, through its HELMS licensing system."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "WV",
+   "name": "West Virginia",
+   "slug": "west-virginia-rad-tech-license",
+   "agency": "West Virginia Medical Imaging and Radiation Therapy Technology Board",
+   "page": "https://wvrtboard.gov/",
+   "agencies": [
+    {
+     "agency": "Medical Imaging & Radiation Therapy Technology Board of Examiner",
+     "url": "https://wvrtboard.gov/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "The West Virginia Medical Imaging and Radiation Therapy Technology Board, under West Virginia Code §30-23-1, licenses radiography and also MRI, nuclear medicine and CT technologists, with apprentice licenses in MRI and nuclear medicine."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "WI",
+   "name": "Wisconsin",
+   "slug": "wisconsin-rad-tech-license",
+   "agency": "Wisconsin Department of Safety and Professional Services",
+   "page": "https://dsps.wi.gov/Pages/Professions/RadiographerLicensed/Default.aspx",
+   "agencies": [
+    {
+     "agency": "Department of Health Services",
+     "url": "https://dsps.wi.gov/Pages/Professions/RadiographerLicensed/Default.aspx"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "Permit",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "Standard",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Wisconsin’s Department of Safety and Professional Services licenses radiographers and limited x-ray machine operators. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education per biennium.",
+    "A license lapsed for five years or more is not renewed: the applicant reapplies."
+   ],
+   "fees": {}
+  },
+  {
+   "code": "WY",
+   "name": "Wyoming",
+   "slug": "wyoming-rad-tech-license",
+   "agency": "Wyoming Board of Radiologic Technologist Examiners",
+   "page": "https://radiology.wyo.gov/",
+   "agencies": [
+    {
+     "agency": "Board of Radiologic Technologists Examiners",
+     "url": "https://radiology.wyo.gov/"
+    }
+   ],
+   "read": "read",
+   "mods": {
+    "rad": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ct": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mr": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "nm": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "civi": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "rt": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "sono": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "limited": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "ra": {
+     "lic": "License",
+     "std": "",
+     "eq": ""
+    },
+    "fluoro": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "fusion": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "mammo": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    },
+    "bd": {
+     "lic": "",
+     "std": "",
+     "eq": ""
+    }
+   },
+   "say": [
+    "Wyoming’s Board of Radiologic Technologist Examiners, created by the legislature in 1985, issues general, restricted, special and temporary licenses through the Professional Licensing Boards Office."
+   ],
+   "fees": {}
+  }
+ ]
+}

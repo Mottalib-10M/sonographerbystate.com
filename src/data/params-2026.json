@@ -1,0 +1,108 @@
+{
+  "_lisezmoi": "Registre des sources et des frais nationaux. Règles des États : states.json (data-src/states.py, table ASRT + pages officielles des agences, lues le 2026-11-13). Programmes : programs.json (data-src/build-programs.py, fichiers IPEDS de NCES, domaine public). Frais ARRT lus sur arrt.org (Application Fees) et ARDMS sur inteleos.org (pages d'examen), le 2026-11-13, par curl. Montants de renouvellement annuel ARRT et ARDMS non lus sur une page officielle (contenu en JavaScript) : non affichés.",
+  "year": 2026,
+  "retrieved_at": "2026-11-13",
+  "arrt": {
+    "primary": 225,
+    "postprimary": 225,
+    "postprimarySupportNmtcb": 450,
+    "postprimarySupportArdms": 450,
+    "reinstateOnline": 150,
+    "reinstateExam": 225,
+    "renewal": "every year, by the last day of the birth month",
+    "ce": "every two years (biennium)",
+    "cqr": "every 10 years for R.T.s certified since January 1, 2011"
+  },
+  "ardms": {
+    "spi": 275,
+    "specialty": 300,
+    "windowYears": 5,
+    "renewal": "every year, fees due by December 31 (renewal opens in September)"
+  },
+  "sources": {
+    "asrt": {
+      "url": "https://www.asrt.org/main/standards-and-regulations/legislation-regulations-and-advocacy/individual-state-licensure",
+      "label": {
+        "en": "ASRT, States That Regulate: licensure by state and modality (read November 13, 2026)"
+      }
+    },
+    "arrt_fees": {
+      "url": "https://www.arrt.org/pages/earn-arrt-credentials/how-to-apply/application-fees",
+      "label": {
+        "en": "ARRT, Application Fees (read November 13, 2026)"
+      }
+    },
+    "arrt_ongoing": {
+      "url": "https://www.arrt.org/pages/earn-arrt-credentials/ongoing-requirements",
+      "label": {
+        "en": "ARRT, Maintaining your certification and registration: annual renewal, biennial CE, CQR (read November 13, 2026)"
+      }
+    },
+    "arrt_state": {
+      "url": "https://www.arrt.org/pages/about-the-profession/state-licensing",
+      "label": {
+        "en": "ARRT, State Licensing: “more than 75% of states have licensing laws” (read November 13, 2026)"
+      }
+    },
+    "ardms_spi": {
+      "url": "https://www.inteleos.org/exam/sonography-principles-and-instrumentation/",
+      "label": {
+        "en": "Inteleos (ARDMS), Sonography Principles and Instrumentation exam: $275, five-year rule (read November 13, 2026)"
+      }
+    },
+    "ardms_ab": {
+      "url": "https://www.inteleos.org/exam/abdomen/",
+      "label": {
+        "en": "Inteleos (ARDMS), Abdomen exam: $300, for RDMS (read November 13, 2026)"
+      }
+    },
+    "ardms_obgyn": {
+      "url": "https://www.inteleos.org/exam/obstetrics-and-gynecology/",
+      "label": {
+        "en": "Inteleos (ARDMS), Obstetrics and Gynecology exam: $300, for RDMS (read November 13, 2026)"
+      }
+    },
+    "ardms_ae": {
+      "url": "https://www.inteleos.org/exam/adult-echocardiography/",
+      "label": {
+        "en": "Inteleos (ARDMS), Adult Echocardiography exam: $300, for RDCS (read November 13, 2026)"
+      }
+    },
+    "ardms_vt": {
+      "url": "https://www.inteleos.org/exam/vascular-technology/",
+      "label": {
+        "en": "Inteleos (ARDMS), Vascular Technology exam: $300, for RVT (read November 13, 2026)"
+      }
+    },
+    "ardms_renew": {
+      "url": "https://www.inteleos.org/maintenance-of-certification/annual-renewal-fee/",
+      "label": {
+        "en": "Inteleos (ARDMS), Annual Renewal Fee: calendar-year cycle, due December 31 (read November 13, 2026)"
+      }
+    },
+    "ipeds": {
+      "url": "https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip",
+      "label": {
+        "en": "NCES, IPEDS completions file C2024_A: awards by program (CIP 51.0910 sonography, 51.0911 radiography), July 2023 to June 2024 (downloaded November 13, 2026)"
+      }
+    },
+    "ipeds_hd": {
+      "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+      "label": {
+        "en": "NCES, IPEDS directory file HD2024: name, city, state and control of each institution"
+      }
+    },
+    "ipeds_ay": {
+      "url": "https://nces.ed.gov/ipeds/datacenter/data/IC2023_AY.zip",
+      "label": {
+        "en": "NCES, IPEDS charges file IC2023_AY: 2023-24 tuition and per-credit charges"
+      }
+    },
+    "ipeds_py": {
+      "url": "https://nces.ed.gov/ipeds/datacenter/data/IC2023_PY.zip",
+      "label": {
+        "en": "NCES, IPEDS charges file IC2023_PY: 2023-24 whole-program tuition of certificate programs"
+      }
+    }
+  }
+}

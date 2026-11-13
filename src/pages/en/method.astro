@@ -1,0 +1,42 @@
+---
+/** Method: the sources, how each answer is computed, a worked example, the limits. Figures from the kit. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { src, table } from '../../lib/helpers';
+import { VALUE } from '../../content/home';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('method', lang);
+const title = 'Rad Tech License Method 2026: How State Rules Were Read';
+const description = 'Rad tech license method for 2026: how the ASRT state table, the agency pages, the ARRT and ARDMS fees and the IPEDS files were read, and what is not covered.';
+const C = K.C;
+const E = K.E;
+const ex = K.S(K.EX.st);
+const med = K.medianTuition(ex.code, 'sono', 'public');
+const rows = [['State license, certificate or permit', String(C.radL)], ['State accreditation or registration', String(C.radA)], ['Training standard, no license', String(C.radS)], ['No state rule', String(C.radN)]];
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'How the rules were read', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'How the rules were read', path }])]} breadcrumbs={[{ label: 'How the rules were read' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>How the rad tech license rules were read</h1>
+    <p><strong>Every rad tech license answer on this site comes from one record per state, built from the state table of the American Society of Radiologic Technologists and checked against the page of the state agency, read on {K.day(K.READ)}. Fees come from the ARRT and Inteleos pages, schools from the IPEDS files.</strong></p>
+    <p>{VALUE}</p>
+    <h2>1. The state rules</h2>
+    <p>The ASRT page <Fragment set:html={src('asrt', '“States That Regulate”')} /> gives, for each state and DC and for thirteen modalities, three columns: licensure (“any form of permission granted by state to practice”: license, certificate, permit), standard (education or national credentials required, without a license) and equipment rules. We read the table cell by cell. Then we opened the agency page it names for each state: {C.read} answered and were read; {C.blocked} refused our reader or never answered, and those states rely on the ASRT table alone, as their pages say. No refusal was bypassed. Fees and rules that a state page prints (Connecticut, Illinois, Indiana, Montana, Ohio, Virginia and others) are quoted with that page as source.</p>
+    <Fragment set:html={table(['Radiography in the state', 'Jurisdictions'], rows, `The 50 states and DC by kind of radiography rule (ASRT table, read ${K.day(K.READ)})`, ['l', 'r'])} />
+    <h2>2. The exam fees</h2>
+    <p>ARRT application fees were read on its <Fragment set:html={src('arrt_fees', 'Application Fees page')} />, and its renewal and continuing education rules on <Fragment set:html={src('arrt_ongoing', 'its ongoing requirements page')} />. ARDMS exam fees were read on the exam pages of Inteleos, which runs the ARDMS exams (<Fragment set:html={src('ardms_spi', 'SPI')} />, <Fragment set:html={src('ardms_ab', 'Abdomen')} />). Neither body printed its annual renewal amount on a page we could read, so the site does not show it.</p>
+    <h2>3. The programs</h2>
+    <p>Programs are those that reported at least one award in CIP 51.0910 (sonography) or 51.0911 (radiography) as a first major in the IPEDS completions file for July 2023 to June 2024 (<Fragment set:html={src('ipeds', 'C2024_A')} />), joined to the directory (HD2024) and to the 2023-24 charges (IC2023_AY: undergraduate tuition plus required fees, in-state and out-of-state). Puerto Rico is left out. Medians use public schools only, and only those reporting a charge. Hospital programs outside federal student aid do not report to IPEDS. IPEDS is a work of the U.S. government, in the public domain.</p>
+    <h2>4. A worked example</h2>
+    <p>{ex.name}, sonography, two years of study: the checker reads that {ex.name} issues {E.radAnswer(ex).toLowerCase()} for radiography and {E.sonoAnswer(ex).toLowerCase()} for sonography; the route calculator takes the median public in-state tuition and fees of the state’s sonography schools ({med ? K.money(med) : 'none reported'} a year in 2023-24), multiplies it by two and adds the ARDMS SPI and one specialty ({K.money(K.ardmsCost(1))}): {med ? K.money(med * 2 + K.ardmsCost(1)) : 'not computed'}.</p>
+    <h2>5. Limits</h2>
+    <ul>
+      <li>The ASRT table is the work of a professional society, not a law; the agency of your state decides.</li>
+      <li>Tuition is a median of 2023-24 charges, without books, housing or clinical travel; your school’s price governs.</li>
+      <li>No salary and no medical content: pay depends on the employer, and the site covers licensing only.</li>
+      <li>Nothing here is legal advice, and nothing updates by itself: each page shows the date its sources were read.</li>
+    </ul>
+    <p>Corrections: <a href={route('contact', lang)}>contact page</a>.</p>
+  </article>
+</PageLayout>

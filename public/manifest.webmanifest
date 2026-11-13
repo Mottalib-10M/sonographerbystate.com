@@ -1,0 +1,21 @@
+{
+ "name": "Sonographer By State",
+ "short_name": "Sonographer By State",
+ "description": "Sonographer and radiologic technologist rules in all 50 states and DC: which states require a license, ARDMS and ARRT exam fees, and accredited programs by state.",
+ "start_url": "/en/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#245C73",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
