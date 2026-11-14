@@ -174,7 +174,7 @@
    "code": "AZ",
    "name": "Arizona",
    "slug": "arizona-rad-tech-license",
-   "agency": "Arizona Bureau of Special Licensing",
+   "agency": "Arizona Department of Health Services, Bureau of Special Licensing",
    "page": "https://azdhs.gov/licensing/special/index.php#mrt",
    "agencies": [
     {
@@ -4247,7 +4247,7 @@
     }
    },
    "say": [
-    "Wisconsin’s Department of Safety and Professional Services licenses radiographers and limited x-ray machine operators. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education per biennium.",
+    "Wisconsin’s Department of Safety and Professional Services licenses radiographers and limited x-ray machine operators. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education every two years.",
     "A license lapsed for five years or more is not renewed: the applicant reapplies."
    ],
    "fees": {}

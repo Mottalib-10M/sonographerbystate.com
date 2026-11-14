@@ -5,11 +5,11 @@ const A = K.ARDMS;
 
 export default definePage({
   id: 'ardms-exam-cost', group: 'guides', order: 104, slug: 'ardms-exam-cost',
-  nav: 'ARDMS exam cost', card: `SPI ${K.money(A.spi)}, each specialty ${K.money(A.specialty)}: the total for your credential and retakes.`,
+  nav: 'ARDMS exam cost', card: `Physics exam (SPI) ${K.money(A.spi)}, each specialty ${K.money(A.specialty)}: the total for your credential and retakes.`,
   title: 'ARDMS Exam Cost 2026: SPI and Specialty Fees, Retakes',
   description: `ARDMS exam cost in 2026: ${K.money(A.spi)} for the SPI exam and ${K.money(A.specialty)} for each specialty exam, passed within ${A.windowYears} years; the total for RDMS, RDCS or RVT with any retakes.`,
   h1: 'ARDMS exam cost: SPI, specialties and retakes',
-  intro: `The ARDMS exam cost for one credential is ${K.money(K.ardmsCost(1))}: the SPI exam (${K.money(A.spi)}) plus one specialty (${K.money(A.specialty)}). Add specialties or retakes below.`,
+  intro: `The ARDMS exam cost for one credential is ${K.money(K.ardmsCost(1))}: the ultrasound physics exam, called SPI (${K.money(A.spi)}), plus one specialty (${K.money(A.specialty)}). Add specialties or retakes below.`,
   resume: `ARDMS credentials, run by Inteleos, take two exams: the Sonography Principles and Instrumentation (SPI) exam, required for every ARDMS certification track, at ${K.money(A.spi)}, and a specialty exam at ${K.money(A.specialty)}, such as abdomen or obstetrics and gynecology for the RDMS, adult echocardiography for the RDCS or vascular technology for the RVT. Both must be passed within ${A.windowYears} years of each other, in any order. These fees were read on the Inteleos exam pages on ${K.day(K.READ)}; each exam is offered year-round. A sonographer seeking two RDMS specialties pays ${K.money(K.ardmsCost(2))} in exam fees; one who takes the SPI twice and one specialty pays ${K.money(K.ardmsCost(1, 2))}. After certification, renewal is ${A.renewal}; we could not read the renewal amount on an official page, so it is not shown.`,
   faqs: [
     { q: 'How much is the ARDMS SPI exam?', a: `${K.money(A.spi)}, according to the Inteleos page of the Sonography Principles and Instrumentation exam read on ${K.day(K.READ)}. The SPI is required for every ARDMS credential (RDMS, RDCS, RVT, RMSKS) and is paired with a specialty exam passed within ${A.windowYears} years.` },

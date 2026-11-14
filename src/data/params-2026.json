@@ -10,7 +10,7 @@
     "reinstateOnline": 150,
     "reinstateExam": 225,
     "renewal": "every year, by the last day of the birth month",
-    "ce": "every two years (biennium)",
+    "ce": "every two years",
     "cqr": "every 10 years for R.T.s certified since January 1, 2011"
   },
   "ardms": {
@@ -23,7 +23,7 @@
     "asrt": {
       "url": "https://www.asrt.org/main/standards-and-regulations/legislation-regulations-and-advocacy/individual-state-licensure",
       "label": {
-        "en": "ASRT, States That Regulate: licensure by state and modality (read November 13, 2026)"
+        "en": "American Society of Radiologic Technologists (ASRT), States That Regulate: licensure by state and modality (read November 13, 2026)"
       }
     },
     "arrt_fees": {
@@ -35,7 +35,7 @@
     "arrt_ongoing": {
       "url": "https://www.arrt.org/pages/earn-arrt-credentials/ongoing-requirements",
       "label": {
-        "en": "ARRT, Maintaining your certification and registration: annual renewal, biennial CE, CQR (read November 13, 2026)"
+        "en": "ARRT, Maintaining your certification and registration: annual renewal, continuing education every two years, Continuing Qualifications Requirements (CQR) (read November 13, 2026)"
       }
     },
     "arrt_state": {

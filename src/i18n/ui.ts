@@ -9,6 +9,6 @@ const en = {
   footerPopular: 'Guides',
   notFound: 'This address leads nowhere. The checker on the home page tells you whether each of the 50 states and DC licenses x-ray technologists and sonographers, and which agency issues the credential.',
   readMore: 'Read the full answer',
-  estimate: 'The answers apply the ASRT state table and the agency pages read on November 13, 2026, and the IPEDS files for 2023-24. Rules change: your state agency decides.',
+  estimate: 'The answers apply the state table of the American Society of Radiologic Technologists (ASRT) and the agency pages read on November 13, 2026, and the federal college files (IPEDS) for 2023-24. Rules change: your state agency decides.',
 };
 export function t(_lang: Locale) { return en; }

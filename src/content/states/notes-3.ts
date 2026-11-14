@@ -52,10 +52,10 @@ export const NOTES_3: Record<string, StateNote> = {
     ],
   },
   RI: {
-    lead: `Rhode Island licenses radiographers, CT, nuclear medicine and radiation therapy technologists and radiologist assistants through its Department of Health, according to the ASRT table. Sonography and limited x-ray work are not licensed. The department’s page refused our reader. Rhode Island College and the Community College of Rhode Island share the state’s training: the college teaches both disciplines as bachelor’s degrees, the community college as associate degrees, at about half the resident price ($5,326 against $10,986 a year in tuition and fees).`,
+    lead: `Rhode Island licenses radiographers, CT, nuclear medicine and radiation therapy technologists and radiologist assistants through its Department of Health, according to the ASRT table. Sonography and limited x-ray work are not licensed. The department’s page could not be opened by our software. Rhode Island College and the Community College of Rhode Island share the state’s training: the college teaches both disciplines as bachelor’s degrees, the community college as associate degrees, at about half the resident price ($5,326 against $10,986 a year in tuition and fees).`,
     how: `Apply to the Rhode Island Department of Health for the license of your modality, with your national exam result. We could not read its fee or renewal cycle: check them on the department’s licensing page.`,
     faqs: [
-      { q: `Does Rhode Island license radiographers?`, a: `Yes. The ASRT table lists a Rhode Island license for radiography, plus CT, nuclear medicine, radiation therapy and radiologist assistants, all from the Department of Health. Its licensing page refused our reader on November 13, 2026. Ask the department for current requirements before applying.` },
+      { q: `Does Rhode Island license radiographers?`, a: `Yes. The ASRT table lists a Rhode Island license for radiography, plus CT, nuclear medicine, radiation therapy and radiologist assistants, all from the Department of Health. Its licensing page could not be opened by our software on November 13, 2026. Ask the department for current requirements before applying.` },
       { q: `Can I train in Rhode Island?`, a: `Yes. Rhode Island College and the Community College of Rhode Island both reported radiography and sonography awards to IPEDS for 2023-24. Their in-state tuition and fees appear in the table on this page. The community college charges residents about half as much as the college.` },
     ],
   },
@@ -92,10 +92,10 @@ export const NOTES_3: Record<string, StateNote> = {
     ],
   },
   UT: {
-    lead: `Utah licenses radiographers and limited operators, plus nuclear medicine, radiation therapy and radiologist assistants, through its Division of Professional Licensing (DOPL), according to the ASRT table. The division’s site refused our reader. Weber State University stands out: it reported one of the largest radiography classes of any school in the country for 2023-24, with awards from certificates to a master’s degree. Salt Lake Community College and Mountainland Technical College in Lehi come next in radiography, and Utah Tech University trains radiographers in Saint George, in the south of the state.`,
+    lead: `Utah licenses radiographers and limited operators, plus nuclear medicine, radiation therapy and radiologist assistants, through its Division of Professional Licensing (DOPL), according to the ASRT table. The division’s site could not be opened by our software. Weber State University stands out: it reported one of the largest radiography classes of any school in the country for 2023-24, with awards from certificates to a master’s degree. Salt Lake Community College and Mountainland Technical College in Lehi come next in radiography, and Utah Tech University trains radiographers in Saint George, in the south of the state.`,
     how: `Apply to the Utah Division of Professional Licensing for the radiologic technology license of your category, with your national exam result. We could not read its fee schedule.`,
     faqs: [
-      { q: `Who licenses radiologic technologists in Utah?`, a: `The Utah Division of Professional Licensing, known as DOPL, according to the ASRT table we read on November 13, 2026. It licenses radiography and limited operators. Its own page refused our automated reader, so confirm the current requirements there. Ask the division directly before you apply.` },
+      { q: `Who licenses radiologic technologists in Utah?`, a: `The Utah Division of Professional Licensing, known as DOPL, according to the ASRT table we read on November 13, 2026. It licenses radiography and limited operators. We could not read its own page, so confirm the current requirements there. Ask the division directly before you apply.` },
       { q: `Which school trains most Utah radiographers?`, a: `Weber State University, by far: it reported more radiography awards to IPEDS for 2023-24 than any other Utah school, ahead of Salt Lake Community College, and it is also Utah’s only school reporting sonography awards. Its campus is in Ogden.` },
     ],
   },
@@ -132,10 +132,10 @@ export const NOTES_3: Record<string, StateNote> = {
     ],
   },
   WI: {
-    lead: `Wisconsin licenses radiographers and limited x-ray machine operators through the Department of Safety and Professional Services. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education per biennium, except the first one. Sonography is not licensed. Bellin College reported the largest radiography and sonography classes in 2023-24.`,
+    lead: `Wisconsin licenses radiographers and limited x-ray machine operators through the Department of Safety and Professional Services. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education every two years, except the first one. Sonography is not licensed. Bellin College reported the largest radiography and sonography classes in 2023-24.`,
     how: `Register on the department’s LicensE portal as an individual and apply for the radiographer or limited x-ray machine operator license, with your ARRT certification. A license lapsed for five years or more means applying again rather than renewing.`,
     faqs: [
-      { q: `How many CE hours do Wisconsin radiographers need?`, a: `24 hours of continuing education, from providers recognized by ARRT, each biennium. The rule does not apply to the biennium in which the license was first issued, according to the Department of Safety and Professional Services page we read on November 13, 2026.` },
+      { q: `How many CE hours do Wisconsin radiographers need?`, a: `24 hours of continuing education, from providers recognized by ARRT, every two years. The rule does not apply to the two-year period in which the license was first issued, according to the Department of Safety and Professional Services page we read on November 13, 2026.` },
       { q: `Does ARRT certification count in Wisconsin?`, a: `Yes. The Department of Safety and Professional Services accepts active ARRT certification as proof that the applicant passed the examination requirement for a radiographer license. Limited x-ray machine operators have their own license. Keep your ARRT certification active to renew without trouble.` },
     ],
   },

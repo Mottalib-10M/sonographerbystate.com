@@ -22,9 +22,9 @@ export default definePage({
   ],
   body: (h) => `
 <h2>Radiology tech schools with the most graduates</h2>
-${h.table(['School', 'State', 'Awards 2023-24', 'In-state tuition and fees'], top.map((p) => [p.name, h.a(K.S(p.st).slug, K.S(p.st).name), p.n, p.instate ? K.money(p.instate) : 'n/a']), 'The 10 largest radiography programs (IPEDS completions July 2023 to June 2024)', ['l', 'l', 'r', 'r'])}
+${h.table(['School', 'State', 'Graduates 2023-24', 'In-state tuition and fees'], top.map((p) => [p.name, h.a(K.S(p.st).slug, K.S(p.st).name), p.n, p.instate ? K.money(p.instate) : 'Not reported']), 'The 10 largest radiography programs (IPEDS completions July 2023 to June 2024)', ['l', 'l', 'r', 'r'])}
 <p>Private career-school campuses and a few public colleges lead the count. Each state page lists its ten largest imaging programs, radiography and sonography together.</p>
-${h.mini('route', { t: 'Tuition and ARRT fee for your years of study', p: ['st', 'yr'], d: { cip: 'rad' } })}
+${h.mini('route', { t: 'Tuition and national x-ray exam fee (ARRT) for your years of study', p: ['st', 'yr'], d: { cip: 'rad' } })}
 <h2>Choosing among radiology tech schools</h2>
 <p>Compare the award (certificate, associate or bachelor’s), the total cost over the program, the clinical sites and whether the program qualifies you for the ARRT exam. Then check the ${h.a('radiologic-technologist-license-by-state', 'state license')} where you will work. For ultrasound programs, see ${h.a('how-to-become-an-ultrasound-tech', 'how to become an ultrasound tech')}.</p>
 `,

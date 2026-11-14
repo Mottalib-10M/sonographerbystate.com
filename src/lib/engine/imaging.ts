@@ -58,11 +58,30 @@ export const radShort = (s: State) => ({ L: 'Yes', A: 'Yes', S: 'No', N: 'No' })
 export const sonoLicensed = (s: State) => Boolean(s.mods.sono?.lic);
 export const sonoAnswer = (s: State) => (sonoLicensed(s) ? `Yes, a state ${s.mods.sono.lic.toLowerCase().replace(/^certified$/, 'certification')}` : 'No state license');
 export const limitedWord = (s: State) => (s.mods.limited?.lic ? s.mods.limited.lic.toLowerCase().replace(/^certified$/, 'certification') : '');
-export const limitedAnswer = (s: State) => (limitedWord(s) ? `Yes: a limited ${limitedWord(s)}` : 'No limited credential in the ASRT table');
+export const limitedAnswer = (s: State) => (limitedWord(s) ? `Yes: a limited ${limitedWord(s)}` : 'No limited credential listed');
 /** Modalities with a state credential, as names. */
 const MOD_NAMES: Record<string, string> = { rad: 'radiography', limited: 'limited x-ray', sono: 'sonography', ct: 'CT', mr: 'MRI', nm: 'nuclear medicine', rt: 'radiation therapy', fluoro: 'fluoroscopy', mammo: 'mammography', bd: 'bone densitometry', ra: 'radiologist assistant', civi: 'cardiac and vascular interventional', fusion: 'fusion imaging' };
 export const modName = (k: string) => MOD_NAMES[k] ?? k;
 export const licensedMods = (s: State) => Object.entries(s.mods).filter(([, m]) => m.lic).map(([k]) => k);
+
+/** Does the state issue a credential to x-ray technologists (license, certificate, permit, accreditation, registration)? */
+export const radCredential = (s: State) => ['L', 'A'].includes(radKind(s));
+/** The fee to obtain the credential, when the agency page we read prints it (states.json > fees, from data-src/states.py):
+ *  the first entry that is an application or an accreditation, never a renewal, late, duplicate or name-change fee. */
+export function appFee(s: State): { what: string; amount: number } | null {
+  const e = Object.entries(s.fees).find(([k]) => /application|accreditation/i.test(k) && !/late|renewal|duplicate|name/i.test(k));
+  return e ? { what: e[0].toLowerCase(), amount: e[1] } : null;
+}
+/** Phone numbers printed on the agency page we read (quoted in the state's "how" note, src/content/states). */
+export const PHONE: Record<string, string> = { AR: '501-661-2301' };
+/** The state fee, in words, for the result rows: printed amount, or who to ask (nothing invented). */
+export function feeLine(s: State): string {
+  if (!radCredential(s) && !sonoLicensed(s)) return 'None: no state license to pay for';
+  const f = appFee(s);
+  if (f) return `${money(f.amount)} (${f.what}, printed on the agency page)`;
+  const ask = PHONE[s.code] ? `call ${s.agency} at ${PHONE[s.code]}` : `ask ${s.agency}`;
+  return s.read === 'read' ? `Not printed on the agency page: ${ask}` : `Not known (agency site could not be opened): ${ask}`;
+}
 
 /** Programs of a state for one discipline, biggest first. */
 export const programsOf = (code: string, cip: Cip) => PROGRAMS.filter((p) => p.st === code && p.cip === cip).sort((a, b) => b.n - a.n || a.name.localeCompare(b.name));
@@ -107,6 +126,6 @@ export function counts() {
     total: STATES.length,
     radL: k.filter((x) => x === 'L').length, radA: k.filter((x) => x === 'A').length, radS: k.filter((x) => x === 'S').length, radN: k.filter((x) => x === 'N').length,
     sono: STATES.filter(sonoLicensed).length, limited: STATES.filter((s) => limitedWord(s)).length,
-    read: STATES.filter((s) => s.read === 'read').length, blocked: STATES.filter((s) => s.read === 'blocked').length,
+    read: STATES.filter((s) => s.read === 'read').length, fees: STATES.filter((s) => appFee(s)).length, blocked: STATES.filter((s) => s.read === 'blocked').length,
   };
 }

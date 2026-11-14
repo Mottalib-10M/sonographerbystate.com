@@ -27,7 +27,7 @@ export default definePage({
 <p><strong>4. Get licensed if your state requires it.</strong> See the ${h.a('sonographer-license-by-state', 'sonographer license by state')}.</p>
 ${h.mini('route', { t: 'Tuition and exams for your route', p: ['st', 'yr'], d: { cip: 'sono' } })}
 <h2>Ultrasound tech programs by state</h2>
-${h.table(['State', 'Programs', 'Awards 2023-24', 'Public in-state tuition and fees (median)'], byState.filter((x) => x.n > 0).slice(0, 15).map((x) => [h.a(x.s.slug, x.s.name), x.n, x.a, (() => { const m = K.medianTuition(x.s.code, 'sono', 'public'); return m ? K.money(m) : 'no public program'; })()]), 'The 15 states with the most sonography awards (IPEDS completions July 2023 to June 2024)', ['l', 'r', 'r', 'r'])}
+${h.table(['State', 'Programs', 'Graduates 2023-24', 'Public in-state tuition and fees (median)'], byState.filter((x) => x.n > 0).slice(0, 15).map((x) => [h.a(x.s.slug, x.s.name), x.n, x.a, (() => { const m = K.medianTuition(x.s.code, 'sono', 'public'); return m ? K.money(m) : 'no public program'; })()]), 'The 15 states with the most sonography awards (IPEDS completions July 2023 to June 2024)', ['l', 'r', 'r', 'r'])}
 <p>Every state page of this site lists its own programs. To compare with x-ray training, read ${h.a('how-to-become-a-radiology-tech', 'how to become a radiology tech')}.</p>
 `,
   tool: 'programs', toolArg: { cip: 'sono' },

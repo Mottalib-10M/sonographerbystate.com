@@ -34,7 +34,6 @@ export function titleOf(st: E.State): string {
     `${N} Rad Tech License 2026: Sonographer Rules`,
     `${N} Rad Tech License 2026: Sonographers, Schools`,
     `${N} Rad Tech License 2026: Rules and Schools`,
-    `${N} Rad Tech License 2026: Rules, Fees and Schools`,
     `${N} Rad Tech License 2026: Sonographer Rules and Schools`,
     `${N} Rad Tech License 2026: Sonographer and X-Ray Rules`,
     `${N} Rad Tech License 2026: Who Needs One, Schools`,
@@ -50,7 +49,7 @@ export function descriptionOf(st: E.State): string {
   const sono = E.sonoLicensed(st) ? ', and so does a sonographer' : ', a sonographer needs none';
   const n = r + s;
   const tails = [`; the agency, the steps and ${n} programs with their tuition.`, `; the agency, the steps and ${n} programs with tuition.`, `; the agency, the steps and the ${n} programs.`, `; the agency, the steps and ${n} programs.`, `; agency, steps and ${n} programs with tuition.`, `; agency, steps, ${n} programs and tuition.`, `; agency, steps and ${n} schools.`, `; agency, steps, ${n} schools.`, '; the agency, the steps and the schools.', '; the agency, the steps, the schools.', '; agency, steps and schools.', '; agency, steps, schools.', ', with the schools.', ', with schools.', '.'];
-  const mids = [sono, E.sonoLicensed(st) ? ', as does a sonographer' : ', a sonographer none', ''];
+  const mids = [sono, E.sonoLicensed(st) ? ', as does a sonographer' : ', not a sonographer', ''];
   const cands: string[] = [];
   for (const m of mids) for (const t of tails) cands.push(`${rad}${m}${t}`);
   return fit(cands, 150, 160, `description ${st.code}`);
@@ -74,6 +73,19 @@ function costFaq(st: E.State): FAQ {
   return { q, a };
 }
 
+/** The state fee, in a sentence: the amount when the agency page prints it, otherwise whom to ask (never a figure from memory). */
+function feeText(st: E.State, h: Parameters<PageDef['body']>[0]): string {
+  const link = h.ext(st.page, 'its official page');
+  if (!E.radCredential(st) && !E.sonoLicensed(st)) return `<strong>State fee:</strong> none. ${st.name} issues no license to x-ray technologists or sonographers, so nothing is paid to ${st.agency}.`;
+  const f = E.appFee(st);
+  if (f) return `<strong>State fee:</strong> ${E.money(f.amount)} for the ${f.what}, as printed on ${link} of ${st.agency} (read November 13, 2026). It comes on top of the national exam fee.`;
+  const ask = E.PHONE[st.code] ? `call ${E.PHONE[st.code]} or see ${link}` : `ask it through ${link}`;
+  const others = Object.keys(st.fees).length ? ' (the other fees it prints are in the table below)' : '';
+  return st.read === 'read'
+    ? `<strong>State fee:</strong> ${st.agency} does not print its application fee online${others}: ${ask}.`
+    : `<strong>State fee:</strong> unknown. The site of ${st.agency} could not be opened by our software, so we could not read its fee: ${ask}.`;
+}
+
 export function statePages(): PageDef[] {
   return E.STATES.map((st, i): PageDef => {
     const note = NOTES[st.code];
@@ -85,7 +97,7 @@ export function statePages(): PageDef[] {
     const credited = Object.entries(st.mods).filter(([, m]) => m.lic || m.std || m.eq);
     const feeRows = Object.entries(st.fees);
     const named = all.slice(0, 8).map((p) => `${p.name} in ${p.city} (${p.cip === 'rad' ? 'radiography' : 'sonography'}, ${p.n})`);
-    const schools = all.length ? `By awards in 2023-24, the largest programs were ${named.length > 1 ? `${named.slice(0, -1).join(', ')} and ${named[named.length - 1]}` : named[0]}.` : `No school here reported radiography or sonography graduates to IPEDS for 2023-24.`;
+    const schools = all.length ? `By graduates in 2023-24, the largest programs were ${named.length > 1 ? `${named.slice(0, -1).join(', ')} and ${named[named.length - 1]}` : named[0]}.` : `No school here reported radiography or sonography graduates to IPEDS for 2023-24.`;
     const others = licensedMods(st).filter((k) => !['rad', 'sono', 'limited'].includes(k)).map(E.modName);
     return {
       id: st.slug, group: 'states', order: 200 + i, slug: st.slug,
@@ -93,17 +105,18 @@ export function statePages(): PageDef[] {
       card: `X-ray: ${E.radAnswer(st).toLowerCase()} · sonography: ${E.sonoAnswer(st).toLowerCase()} · ${rad.length + sono.length} programs.`,
       title: titleOf(st), description: descriptionOf(st),
       h1: `${kw}: x-ray and sonographer rules`,
-      intro: `${kw}: an x-ray technologist ${radPhrase(st)}, a sonographer ${E.sonoLicensed(st) ? 'too' : 'none'}; ${rad.length + sono.length} programs.`,
+      intro: `${kw}: an x-ray technologist ${radPhrase(st)}; a sonographer ${E.sonoLicensed(st) ? 'needs one too' : (E.radCredential(st) ? 'needs none' : 'needs none either')}. ${rad.length + sono.length} x-ray and ultrasound programs train here.`,
       resume: `${note.lead} ${st.say.join(' ')} ${schools}`.replace(/\s+/g, ' '),
       faqs: [...note.faqs, costFaq(st)],
       body: (h) => `
-<h2>How to get the ${kw}</h2>
+<h2>${E.radCredential(st) || E.sonoLicensed(st) ? `How to get the ${kw}` : `Working as a rad tech in ${st.name}: no state license to get`}</h2>
 <p>${note.how}${others.length ? ` Also credentialed here: ${others.join(', ')}.` : ''}</p>
-${credited.length ? h.table(['Modality', 'State credential'], credited.map(([k, m]) => [E.modName(k).replace(/^./, (c) => c.toUpperCase()), m.lic || (m.std ? `No license (${m.std.toLowerCase()})` : `No license (equipment rule: ${m.eq.toLowerCase()})`)]), `${st.name}: imaging modalities with a state rule (ASRT table, read November 13, 2026)`) : `<p>The ASRT table lists no state rule of any kind for imaging professionals in ${st.name}.</p>`}
+<p>${feeText(st, h)}</p>
+${credited.length ? h.table(['Imaging job', 'State credential'], credited.map(([k, m]) => [E.modName(k).replace(/^./, (c) => c.toUpperCase()), m.lic || (m.std ? `No license, but a ${m.std.toLowerCase().replace(/^standard$/, 'training standard')} applies` : `No license, but an equipment rule applies (${m.eq.toLowerCase()})`)]), `${st.name}: imaging jobs with a state rule (state table of the ASRT, read November 13, 2026)`) : `<p>The ASRT table lists no state rule of any kind for imaging professionals in ${st.name}.</p>`}
 ${feeRows.length ? h.table(['Fee', 'Amount'], feeRows.map(([k, v]) => [k, E.money(v)]), `${st.name}: fees printed on the agency page, read November 13, 2026`) : ''}
 <h2>${st.name} rad tech and sonography schools</h2>
-${all.length ? h.table(['School', 'City', 'Program', 'Awards 2023-24', 'In-state tuition and fees'], all.map((p) => [p.name, p.city, p.cip === 'rad' ? 'Radiography' : 'Sonography', p.n, p.instate ? E.money(p.instate) : 'n/a']), `${st.name}: the largest of ${rad.length} radiography and ${sono.length} sonography programs; public in-state median ${medR ? E.money(medR) : 'n/a'} and ${medS ? E.money(medS) : 'n/a'} a year (IPEDS 2023-24)`, ['l', 'l', 'l', 'r', 'r']) : ''}
-${h.mini('route', { t: `Tuition and exam: becoming a technologist in ${st.name}`, p: ['cip', 'yr'], d: { st: st.code } })}
+${all.length ? h.table(['School', 'City', 'Program', 'Graduates 2023-24', 'In-state tuition and fees'], all.map((p) => [p.name, p.city, p.cip === 'rad' ? 'X-ray (radiography)' : 'Ultrasound (sonography)', p.n, p.instate ? E.money(p.instate) : 'Not reported']), `${st.name}: ${all.length === rad.length + sono.length ? `the ${all.length} programs` : `the ${all.length} largest of ${rad.length + sono.length} programs`} (IPEDS 2023-24). Median public in-state tuition: radiography ${medR ? `${E.money(medR)} a year` : 'not reported'}, sonography ${medS ? `${E.money(medS)} a year` : 'not reported'}`, ['l', 'l', 'l', 'r', 'r']) : ''}
+${h.mini('route', { t: `Tuition, exam and state fee: becoming a technologist in ${st.name}`, p: ['cip', 'yr'], d: { st: st.code, cip: 'rad' } })}
 `,
       tool: 'state', toolArg: { st: st.code },
       related: ['radiologic-technologist-license-by-state', 'sonographer-license-by-state', 'rad-tech-license-another-state', 'radiology-tech-schools'],

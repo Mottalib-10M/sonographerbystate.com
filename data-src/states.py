@@ -84,7 +84,7 @@ FACTS = {
            'fees': {'Biennial renewal': 135}},
     'WA': {'say': ['The Washington State Department of Health credentials radiologic technologists and, separately, limited scope x-ray technicians and radiologist assistants, through its HELMS licensing system.']},
     'WV': {'say': ['The West Virginia Medical Imaging and Radiation Therapy Technology Board, under West Virginia Code §30-23-1, licenses radiography and also MRI, nuclear medicine and CT technologists, with apprentice licenses in MRI and nuclear medicine.']},
-    'WI': {'say': ['Wisconsin’s Department of Safety and Professional Services licenses radiographers and limited x-ray machine operators. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education per biennium.',
+    'WI': {'say': ['Wisconsin’s Department of Safety and Professional Services licenses radiographers and limited x-ray machine operators. Active ARRT certification counts as passing the exam, and every radiographer needs 24 hours of ARRT-recognized continuing education every two years.',
                    'A license lapsed for five years or more is not renewed: the applicant reapplies.']},
     'WY': {'say': ['Wyoming’s Board of Radiologic Technologist Examiners, created by the legislature in 1985, issues general, restricted, special and temporary licenses through the Professional Licensing Boards Office.']},
 }
@@ -92,7 +92,7 @@ FACTS = {
 # Agency names: the ASRT label, completed with the state and corrected where the official page reads otherwise
 # (Wisconsin: the radiographer license page is on dsps.wi.gov; Indiana: a typo in the ASRT label).
 AGENCY = {
-    'IA': 'Iowa Department of Health and Human Services',
+    'IA': 'Iowa Department of Health and Human Services', 'AZ': 'Arizona Department of Health Services, Bureau of Special Licensing',
     'AL': 'Alabama Department of Public Health, Radiation Control', 'AK': 'Alaska Radiological Health Program',
     'CA': 'California Department of Public Health, Radiologic Health Branch', 'DC': 'DC Health', 'GA': 'Georgia Department of Community Health',
     'FL': 'Florida Department of Health, Bureau of Radiation Control', 'ID': 'Idaho Radiation Control Program', 'IN': 'Indiana Department of Health',
